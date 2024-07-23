@@ -1,0 +1,9 @@
+ Out of the 15 schools Charter, schools have higher scores than Distict schools with the following details 
+ Average Math score is 83.47 
+ Average Reading Score is 83.89 
+ Overall Passing Rate is 93.70% 
+ 
+Whereas in the District Schools,
+ Average Math Score is 76.95 
+ Average Reading Score is 80.96 
+ Overall passing rate is only 66.57%
